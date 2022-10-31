@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&center&size=20&duration=4000&background=E4E4E400&lines=Hey+I'm+maharaja!;I'm+a+self+taught+Web+Developer;I+am+interested+in+Web+Devt+and+AI.;A+big+fan+of+Football...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&center&size=20&center=true&duration=4000&background=E4E4E400&lines=Hey+I'm+maharaja!;I'm+a+self+taught+Web+Developer;I+am+interested+in+Web+Devt+and+AI.;A+big+fan+of+Football...)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
