@@ -14,7 +14,7 @@
 
 - 🔭  I’m currently working on MERN Stack projects.
 
-- 🤔 I’m currently open for a new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/12DcuIBZ43mnDGvToUhvtb2CWeL_NSbEN/view">LINK TO MY RESUME</a>.</li>
 
 - 👯  I'm interested in Web Development and Artificial Intelligence.
 
@@ -32,9 +32,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 <br>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Contribution Activity</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp;  <b>Contribution Activity</b>
 <img src="https://github-readme-stats.vercel.app/api?username=maha17p&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maha17p&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
