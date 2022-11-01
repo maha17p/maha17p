@@ -28,7 +28,7 @@
   <br>
    
    
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">&nbsp;<b>Contribution Activity:</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">&nbsp;<b width="40">Contribution Activity:</b>
  <br>
    
    
