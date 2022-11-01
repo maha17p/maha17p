@@ -8,7 +8,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 - 🔭  I’m currently working on MERN Stack projects.
-- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/12DcuIBZ43mnDGvToUhvtb2CWeL_NSbEN/view">LINK TO MY RESUME</a>.</li>
+- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/12DcuIBZ43mnDGvToUhvtb2CWeL_NSbEN/view">Resume</a>.</li>
 - 👯  I'm interested in Web Development and Artificial Intelligence.
 - 👨‍💻  I’m looking for help with Open source Contribution!
 - 💬  Ask me about Full-Stack and AI😉
