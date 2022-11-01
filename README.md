@@ -8,17 +8,17 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
+- 🔭  I’m currently working on MERN Stack Web Development 
 
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯  I'm interested in Web Development and Artificial Intelligence.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 👨‍💻  I’m looking for help with Open source Contribution!
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 💬  Ask me about Full-Stack and AI😉
 
 - 😄 Pronouns: He/Him/We
-
-- ⚡ Coding fact: "There are over 700 different programming languages".
+ 
+- ⚡ Fun fact: I 💖 to code 24x7.
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
