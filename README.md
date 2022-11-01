@@ -11,23 +11,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-
 - 🔭  I’m currently working on MERN Stack projects.
-
 - 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/12DcuIBZ43mnDGvToUhvtb2CWeL_NSbEN/view">LINK TO MY RESUME</a>.</li>
-
 - 👯  I'm interested in Web Development and Artificial Intelligence.
-
 - 👨‍💻  I’m looking for help with Open source Contribution!
-
 - 💬  Ask me about Full-Stack and AI😉
-
 - 😄 Pronouns: He/Him/We
- 
 - ⚡ Fun fact:  Coding is a passion and not profession.
-
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -45,7 +36,13 @@
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-
+</span>
+<h5> Others: </h5>
+<span> 
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png">
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">
 </span>
 
 <br>
